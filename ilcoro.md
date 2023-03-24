@@ -4,7 +4,7 @@ layout: page
 
 <p></p>
 
-<h1 style="text-align: center;">Il Coro</h1>
+<h1>Il Coro</h1>
 
 Il Coro popolare Città di Vimercate è un coro virile le cui origini musicali sono comuni a quelle di tanti sodalizi sorti quasi spontaneamente intorno all’amore per la montagna e per il canto.
 
@@ -29,7 +29,7 @@ Significative tappe di questo percorso, oltre alle numerose esibizioni in Italia
 
 Importante per il Coro è stata l’incisione del suo primo CD dal titolo “Ai bordi del bosco” registrato “dal vivo” nella primavera del 1995 presso la Chiesa Parrocchiale di Lomagna (Lecco). Un secondo CD, “Come conchiglie di mare“, costituisce il consolidamento di un’attività e di un repertorio di successo.
 
-<h1 style="text-align: center;">Il direttore</h1>
+<h1>Il direttore</h1>
 
 Dal 2015 il Coro Popolare Città di Vimercate è diretto da Ferruccio Villa.
 
