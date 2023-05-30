@@ -8,7 +8,7 @@ layout: page
 
 <h2>Profano</h2>
 
-- Autunno, cosi’ inverno (Alessandro Lutman, Ferruccio Villa)
+- **Autunno, così inverno** (Alessandro Lutman, Ferruccio Villa)
 - Balla Marietta (Bepi de Marzi)
 - Dove (Marco Maiero)
 - El Tram (Samuele Bricalli, Alfredo Oggioni)
