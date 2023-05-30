@@ -6,7 +6,7 @@ layout: page
 
 <h1>Brani in repertorio dal 2015</h1>
 
-<h2>Profano</h2>
+<h3>Profano</h3>
 
 - Autunno, così inverno *(Alessandro Lutman, Ferruccio Villa)*
 - Balla Marietta *(Bepi de Marzi)*
@@ -25,7 +25,7 @@ layout: page
 - Tres rosas *(Luca Cubeddu, Alessandro Catte)* 
 - Varda che vien matina *(Bepi de Marzi)*
 
-<h2>Tradizionale</h2>
+<h3>Tradizionale</h3>
 
 - Adia a l’Engiadina *(A. Bezzola, T. Gaugler, arm. C. Brescianini)* 
 - An Irish Blessing *(trad. irlandese, arr. James E Moore Jr.)* 
@@ -42,7 +42,7 @@ layout: page
 - Stelutis Alpinis *(elaborazione K. Dubienki)* 
 - The first Noel *(English Carol, W. Sandys’ Christmass Carols, arr. Dan Forrest)*
 
-<h2>Sacro</h2>
+<h3>Sacro</h3>
 
 - Ave Maria *(Bepi De Marzi)*
 - Notre Père *(Ferruccio Villa)* 
