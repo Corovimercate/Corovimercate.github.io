@@ -14,7 +14,7 @@ layout: page
 - El Tram (Samuele Bricalli, Alfredo Oggioni)
 - Il modo tuo d’amare (Pedro Salinas, trad. Emma Scoles, Ferruccio Villa)
 - Improvviso (Bepi de Marzi)
-- Io mi addormento, e vivo (Ferruccio Villa) <a href="https://youtu.be/wyq35YPMo9w"><img src="https://www.corovimercate.it/assets/img/icons8-youtube-50.png" alt="YouTube"></a>
+- Io mi addormento, e vivo (Ferruccio Villa) <a href="https://youtu.be/wyq35YPMo9w"><img src="https://www.corovimercate.it/assets/img/icons8-youtube-50.png" alt="YouTube" style="width:36px;height:36px;"></a>
 - La contrà de l’acqua ciara (Bepi de Marzi)
 - L’eco del fiume (Bepi de Marzi) 
 - J’aime (Lucie Déanoz de Moron, Corrado Margutti) 
