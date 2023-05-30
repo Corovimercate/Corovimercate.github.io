@@ -14,7 +14,7 @@ layout: page
 - El Tram (Samuele Bricalli, Alfredo Oggioni)
 - Il modo tuo d’amare (Pedro Salinas, trad. Emma Scoles, Ferruccio Villa)
 - Improvviso (Bepi de Marzi)
-- Io mi addormento, e vivo (Ferruccio Villa) 
+- Io mi addormento, e vivo (Ferruccio Villa) <a href="https://youtu.be/wyq35YPMo9w">📽️</a>
 - La contrà de l’acqua ciara (Bepi de Marzi)
 - L’eco del fiume (Bepi de Marzi) 
 - J’aime (Lucie Déanoz de Moron, Corrado Margutti) 
@@ -50,7 +50,7 @@ layout: page
 - O magnum mysterium (Ferruccio Villa) 
 - Otche Nash (Nikolay Kedrov) 
 - Pastori (Bepi de Marzi)
-- Piu che parole il silenzio (David Maria Turoldo, Bepi de Marzi) 
+- Piu che parole il silenzio (David Maria Turoldo, Bepi de Marzi)
 - Preghiera (Roberto Padoin)
 - Salve Regina (Ferruccio Villa) 
 - Ubi Caritas (Ola Gjeilo) 
