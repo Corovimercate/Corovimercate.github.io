@@ -24,6 +24,7 @@ navbar-links:
   Eventi: "eventi"
   Repertorio: "repertorio"
   Contatti: "contatti"
+  Documenti: "documenti"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
