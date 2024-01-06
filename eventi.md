@@ -6,6 +6,8 @@ layout: page
 
 <h1>Eventi passati</h1>
 
+<h2>--- 2023 ---</h2>
+
 <h3>Due cori in concerto - Canti natalizi e non solo...</h3>
 
 <p>📍 <a href="https://maps.app.goo.gl/yZMctiAScH2e4J647">Chiesa di San Gerardo a Monza</a></p>
