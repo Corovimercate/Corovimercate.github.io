@@ -65,7 +65,7 @@ L’evento si terra’ il 24 Giugno 2023 presso Al Basell-Cooperativa Casa del P
      alt="Locandina Bulciago LC"> -->
 
 <details>
-<summary>Concerto nella chiesa di S. Giovanni Evangelista</summary>
+<summary><h3>Concerto nella chiesa di S. Giovanni Evangelista</h3></summary>
 <p>⏰ Domenica 2 aprile 2023 - ore 20.45</p>
 
 <img class="fit-picture"
