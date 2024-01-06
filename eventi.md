@@ -66,7 +66,7 @@ L’evento si terra’ il 24 Giugno 2023 presso Al Basell-Cooperativa Casa del P
 
 <details>
 <summary>
-<h3>Concerto nella chiesa di S. Giovanni Evangelista</h3>
+<h3>Concerto</h3>
 </summary>
 <p>⏰ Domenica 2 aprile 2023 - ore 20.45</p>
 
