@@ -64,9 +64,8 @@ L’evento si terra’ il 24 Giugno 2023 presso Al Basell-Cooperativa Casa del P
      src="https://www.corovimercate.it/cpcv-2023/assets/img/bulciago.jpg"
      alt="Locandina Bulciago LC"> -->
 
-<h3>Concerto nella chiesa di S. Giovanni Evangelista</h3>
 <details>
-<summary>Dettagli</summary>
+<summary><h3>Concerto nella chiesa di S. Giovanni Evangelista</h3></summary>
 <p>⏰ Domenica 2 aprile 2023 - ore 20.45</p>
 
 <img class="fit-picture"
