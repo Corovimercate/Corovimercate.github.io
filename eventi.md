@@ -4,7 +4,7 @@ layout: page
 
 <p></p>
 
-<h1>Eventi passati</h1>
+<h1>Archivio eventi passati</h1>
 
 <h2>--- 2023 ---</h2>
 
