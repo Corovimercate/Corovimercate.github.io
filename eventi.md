@@ -6,6 +6,22 @@ layout: page
 
 <h1>Archivio eventi passati</h1>
 
+<h2>--- 2024 ---</h2>
+
+<h3>I concerti polifonici della sagra 2024</h3>
+
+<details>
+<summary>Sabato 13 gennaio 2024</summary>
+<p>📍 <a href="https://maps.app.goo.gl/fEJVj7aisZSRtyXq7">Santuario della Beata Vergine del Rosario a Vimercate</a></p>
+<p>⏰ Sabato 13 gennaio 2024 - ore 20.45</p>
+
+<img class="fit-picture"
+     src="https://www.corovimercate.it/assets/img/Sagra_2024.jpg"
+     alt="Foto del coro">
+</details>
+
+<hr style="border:2px solid white">
+
 <h2>--- 2023 ---</h2>
 
 <h3>Due cori in concerto - Canti natalizi e non solo...</h3>
