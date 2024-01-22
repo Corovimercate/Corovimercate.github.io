@@ -8,6 +8,19 @@ layout: page
 
 <h2>--- 2024 ---</h2>
 
+<h3>Dalla Brianza alla Romagna - per celebrare le Beate Margherita e Gentile</h3>
+
+<details>
+<summary>20 e 21 gennaio 2024</summary>
+<p>📍 <a href="https://maps.app.goo.gl/PK69n5cDa9KMBAge8">Chiesa S. Apollinare di Russi (RA)</a></p>
+<p><b>Concerto in amicizia</b> ⏰ Sabato 20 gennaio 2024 - ore 20.45</p>
+<p><b>Animazione Santa Messa</b> ⏰ Domenica 21 gennaio 2024 - ore 11.00</p>
+
+<img class="fit-picture"
+     src="https://www.corovimercate.it/assets/img/Faenza_2024.jpg"
+     alt="Foto del coro">
+</details>
+
 <h3>I concerti polifonici della sagra 2024</h3>
 
 <details>
