@@ -8,6 +8,18 @@ layout: page
 
 <h2>--- 2024 ---</h2>
 
+<h3>Festa del Beato Cardinal Ferrari</h3>
+
+<details>
+<summary>4 febbraio 2024</summary>
+<p>📍 <a href="https://maps.app.goo.gl/xU732Qyq4udarwm58">Chiesa parrocchiale S. Maurizio Vimercate (MB)</a></p>
+<p>⏰ Domenica 4 febbraio 2024 - ore 15.30</p>
+
+<img class="fit-picture"
+     src="https://www.corovimercate.it/assets/img/S.Maurizio.jpg"
+     alt="Foto del coro">
+</details>
+
 <h3>Dalla Brianza alla Romagna - per celebrare le Beate Margherita e Gentile</h3>
 
 <details>
