@@ -41,7 +41,7 @@ Dal 2013 al 2014 è stato cantore del Coro Popolare Città di Vimercate, che att
 
 Ulteriori informazioni sono disponibili nel sito [www.ferrucciovilla.it](http://www.ferrucciovilla.it), dal quale sono scaricabili, senza costi, le sue partiture.
 
-<h2>Precedenti direttori</h2>:
+<h2>Precedenti direttori:</h2>
 
 - Beppe Brambilla (2001-2014)
 - Antonio Colombo (2001)
