@@ -10,7 +10,7 @@ layout: page
 
 - Autunno, così inverno *(Alessandro Lutman, Ferruccio Villa)*
 - Balla Marietta *(Bepi de Marzi)*
-- Dove *(Marco Maiero)*
+- Dove *(Marco Maiero)* <a href="https://youtu.be/F6BDfuFKvGk"><img src="https://www.corovimercate.it/assets/img/icons8-youtube-50.png" alt="YouTube" style="width:36px;height:36px;"></a>
 - El Tram *(Samuele Bricalli, Alfredo Oggioni)*
 - Il modo tuo d’amare *(Pedro Salinas, trad. Emma Scoles, Ferruccio Villa)*
 - Improvviso *(Bepi de Marzi)*
@@ -24,6 +24,8 @@ layout: page
 - Signore delle cime *(Bepi de Marzi)*
 - Tres rosas *(Luca Cubeddu, Alessandro Catte)*<a href="https://youtu.be/0_eEjX_dFGU"><img src="https://www.corovimercate.it/assets/img/icons8-youtube-50.png" alt="YouTube" style="width:36px;height:36px;"></a>
 - Varda che vien matina *(Bepi de Marzi)*
+- Come un dono *(Giorgio Susana, Gianfranco Salatin)*<a href="https://youtu.be/yKOF4m3xEcI"><img src="https://www.corovimercate.it/assets/img/icons8-youtube-50.png" alt="YouTube" style="width:36px;height:36px;"></a>
+
 
 <h3>Tradizionale</h3>
 
@@ -38,7 +40,7 @@ layout: page
 - Muntagni muntagni *(testo popolare, Roberto Hazon, arm. Angelo Mazza)*<a href="https://youtu.be/_aVRQFGKwW8"><img src="https://www.corovimercate.it/assets/img/icons8-youtube-50.png" alt="YouTube" style="width:36px;height:36px;"></a>
 - Nenia di Gesù bambino *(lauda piemontese, arm. Luigi Pigarelli)*
 - Pollireu *(arm. Albino Cattaneo)*
-- Som Som *(antica ninna nanna d’Alvenia, arm. Paolo Bon)*<a href="https://youtu.be/d9AFKHxYRgI"><img src="https://www.corovimercate.it/assets/img/icons8-youtube-50.png" alt="YouTube" style="width:36px;height:36px;"></a>
+- Som Som *(antica ninna nanna d’Alvenia, arm. Paolo Bon)*<a href="https://youtu.be/6VKImnrHi-c"><img src="https://www.corovimercate.it/assets/img/icons8-youtube-50.png" alt="YouTube" style="width:36px;height:36px;"></a>
 - Stelutis Alpinis *(elaborazione K. Dubienki)*<a href="https://youtu.be/-J2mHDYBZ7M"><img src="https://www.corovimercate.it/assets/img/icons8-youtube-50.png" alt="YouTube" style="width:36px;height:36px;"></a>
 - The first Noel *(English Carol, W. Sandys’ Christmass Carols, arr. Dan Forrest)*
 
@@ -54,4 +56,3 @@ layout: page
 - Preghiera *(Roberto Padoin)*
 - Salve Regina *(Ferruccio Villa)*<a href="https://youtu.be/GyzigKPGBc4"><img src="https://www.corovimercate.it/assets/img/icons8-youtube-50.png" alt="YouTube" style="width:36px;height:36px;"></a>
 - Ubi Caritas *(Ola Gjeilo)*<a href="https://youtu.be/1GuYIYj-SUw"><img src="https://www.corovimercate.it/assets/img/icons8-youtube-50.png" alt="YouTube" style="width:36px;height:36px;"></a>
-
