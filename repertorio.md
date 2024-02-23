@@ -10,6 +10,7 @@ layout: page
 
 - Autunno, così inverno *(Alessandro Lutman, Ferruccio Villa)*
 - Balla Marietta *(Bepi de Marzi)*
+- Come un dono *(Giorgio Susana, Gianfranco Salatin)*<a href="https://youtu.be/yKOF4m3xEcI"><img src="https://www.corovimercate.it/assets/img/icons8-youtube-50.png" alt="YouTube" style="width:36px;height:36px;"></a>
 - Dove *(Marco Maiero)* <a href="https://youtu.be/F6BDfuFKvGk"><img src="https://www.corovimercate.it/assets/img/icons8-youtube-50.png" alt="YouTube" style="width:36px;height:36px;"></a>
 - El Tram *(Samuele Bricalli, Alfredo Oggioni)*
 - Il modo tuo d’amare *(Pedro Salinas, trad. Emma Scoles, Ferruccio Villa)*
