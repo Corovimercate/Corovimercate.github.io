@@ -25,7 +25,6 @@ layout: page
 - Signore delle cime *(Bepi de Marzi)*
 - Tres rosas *(Luca Cubeddu, Alessandro Catte)*<a href="https://youtu.be/0_eEjX_dFGU"><img src="https://www.corovimercate.it/assets/img/icons8-youtube-50.png" alt="YouTube" style="width:36px;height:36px;"></a>
 - Varda che vien matina *(Bepi de Marzi)*
-- Come un dono *(Giorgio Susana, Gianfranco Salatin)*<a href="https://youtu.be/yKOF4m3xEcI"><img src="https://www.corovimercate.it/assets/img/icons8-youtube-50.png" alt="YouTube" style="width:36px;height:36px;"></a>
 
 
 <h3>Tradizionale</h3>
