@@ -8,6 +8,15 @@ layout: page
 
 <h2>--- 2024 ---</h2>
 
+<h3>Festival corale Savani a Carpi</h3>
+
+<details>
+<summary>4 maggio 2024</summary>
+<p>📍 <a href="https://maps.app.goo.gl/mg9UCwWiGbtM5Ty78">Auditorium San Rocco a Carpi (MO)</a></p>
+<p>⏰ Sabato 4 maggio 2024 - ore 21.00</p>
+<p><a href="https://www.concorsocoralegiuseppesavani.it/">www.concorsocoralegiuseppesavani.it</a></p>
+</details>
+
 <h3>Festa del Beato Cardinal Ferrari</h3>
 
 <details>
