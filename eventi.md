@@ -8,6 +8,15 @@ layout: page
 
 <h2>--- 2024 ---</h2>
 
+<h3>36° Rassegna Corale Albino Cattaneo</h3>
+
+<details>
+<summary>25 maggio 2024</summary>
+<p>📍 <a href="https://maps.app.goo.gl/ARzeHbvqWkLU4etW6">Chiesa di S. Stefano Vimercate (MB)</a></p>
+<p>⏰ Sabato 25 maggio 2024 - ore 21.00</p>
+<p>Partecipano il Coro Popolare Città di Vimercate ed il coro Fior di Montagna di Monza</p>
+</details>
+
 <h3>Festival corale Savani a Carpi</h3>
 
 <details>
