@@ -10,12 +10,13 @@ layout: page
 
 - Autunno, così inverno *(Alessandro Lutman, Ferruccio Villa)*
 - Balla Marietta *(Bepi de Marzi)*
-- Come un dono *(Giorgio Susana, Gianfranco Salatin)*<a href="https://youtu.be/yKOF4m3xEcI"><img src="https://www.corovimercate.it/assets/img/icons8-youtube-50.png" alt="YouTube" style="width:36px;height:36px;"></a>
+- Come un dono *(Giorgio Susana, Gianfranco Salatin)*<a href="https://youtu.be/cI-p5RQyv9Q?si=X1HEvXYl4evXvjjz"><img src="https://www.corovimercate.it/assets/img/icons8-youtube-50.png" alt="YouTube" style="width:36px;height:36px;"></a>
 - Dove *(Marco Maiero)* <a href="https://youtu.be/F6BDfuFKvGk"><img src="https://www.corovimercate.it/assets/img/icons8-youtube-50.png" alt="YouTube" style="width:36px;height:36px;"></a>
 - El Tram *(Samuele Bricalli, Alfredo Oggioni)*
 - Il modo tuo d’amare *(Pedro Salinas, trad. Emma Scoles, Ferruccio Villa)*
 - Improvviso *(Bepi de Marzi)*
 - Io mi addormento, e vivo *(Ferruccio Villa)* <a href="https://youtu.be/wyq35YPMo9w"><img src="https://www.corovimercate.it/assets/img/icons8-youtube-50.png" alt="YouTube" style="width:36px;height:36px;"></a>
+- La casa *(Bepi de Marzi)*
 - La contrà de l’acqua ciara *(Bepi de Marzi)*
 - L’eco del fiume *(Bepi de Marzi)*<a href="https://youtu.be/aAYVHhHTcK4"><img src="https://www.corovimercate.it/assets/img/icons8-youtube-50.png" alt="YouTube" style="width:36px;height:36px;"></a>
 - J’aime *(Lucie Déanoz de Moron, Corrado Margutti)*<a href="https://youtu.be/TRzu9SAlirI"><img src="https://www.corovimercate.it/assets/img/icons8-youtube-50.png" alt="YouTube" style="width:36px;height:36px;"></a>
@@ -36,6 +37,7 @@ layout: page
 - Dov’è la mia Patria *(trad. ed elab. Luigi Pigarelli)*
 - Dove te vett, o Mariettina *(canto lombardo, arm. Angelo Mazza)*
 - La montanara *(canto dei monti trentini, Toni Ortelli, Luigi Pigarelli)*
+- La Regina Tresenga *(Testo: Mauro Neri, Melodia: Giorgio Moroder, Elaborazione: Mario Lanaro)*<a href="https://youtu.be/P76KFnOWWVs?si=cP5ArQbhMZV3nqs8"><img src="https://www.corovimercate.it/assets/img/icons8-youtube-50.png" alt="YouTube" style="width:36px;height:36px;"></a>
 - Monte Canino *(arm. Corrado Margutti)*<a href="https://youtu.be/IXldplnmFzY"><img src="https://www.corovimercate.it/assets/img/icons8-youtube-50.png" alt="YouTube" style="width:36px;height:36px;"></a>
 - Muntagni muntagni *(testo popolare, Roberto Hazon, arm. Angelo Mazza)*<a href="https://youtu.be/_aVRQFGKwW8"><img src="https://www.corovimercate.it/assets/img/icons8-youtube-50.png" alt="YouTube" style="width:36px;height:36px;"></a>
 - Nenia di Gesù bambino *(lauda piemontese, arm. Luigi Pigarelli)*
@@ -47,6 +49,7 @@ layout: page
 <h3>Sacro</h3>
 
 - Ave Maria *(Bepi De Marzi)*
+- Ave Maria *(Ferruccio Villa)*
 - Notre Père *(Ferruccio Villa)*<a href="https://youtu.be/aBVIlo3JPe4"><img src="https://www.corovimercate.it/assets/img/icons8-youtube-50.png" alt="YouTube" style="width:36px;height:36px;"></a>
 - Notte Santa *(Bepi de Marzi)*
 - O magnum mysterium *(Ferruccio Villa)*<a href="https://youtu.be/DrTq1C2MfJQ"><img src="https://www.corovimercate.it/assets/img/icons8-youtube-50.png" alt="YouTube" style="width:36px;height:36px;"></a>
