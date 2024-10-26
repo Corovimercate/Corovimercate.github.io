@@ -1,0 +1,16 @@
+---
+layout: page
+---
+
+## 2020
+
+### 12 Gennaio 2020
+
+20.45
+
+Santuario della Beata Vergine del Rosario in Vimercate
+
+Rassegna corale per la sagra di Sant'Antonio.
+
+![image0016.jpeg](img\image0016.jpeg)
+
