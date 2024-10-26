@@ -36,21 +36,21 @@ Presso la Collegiata di Santo Stefano, Vimercate
 
 Serata in occasione del 50° anniversario dalla fondazione
 
-![image0007.jpeg](img\image0007.jpeg)
+![image0007.jpeg](test_markdown/img/image0007.jpeg)
 
-![image0008.jpeg](img\image0008.jpeg)
+![image0008.jpeg](test_markdown/img/image0008.jpeg)
 
-![image0009.jpeg](img\image0009.jpeg)
+![image0009.jpeg](test_markdown/img/image0009.jpeg)
 
-![image0010.jpeg](img\image0010.jpeg)
+![image0010.jpeg](test_markdown/img/image0010.jpeg)
 
-![image0011.jpeg](img\image0011.jpeg)
+![image0011.jpeg](test_markdown/img/image0011.jpeg)
 
-![image0012.jpeg](img\image0012.jpeg)
+![image0012.jpeg](test_markdown/img/image0012.jpeg)
 
-![image0013.jpeg](img\image0013.jpeg)
+![image0013.jpeg](test_markdown/img/image0013.jpeg)
 
-![image0007.jpeg](img\image0007.jpeg)
+![image0007.jpeg](test_markdown/img/image0007.jpeg)
 
-![image0015.jpeg](img\image0015.jpeg)
+![image0015.jpeg](test_markdown/img/image0015.jpeg)
 
