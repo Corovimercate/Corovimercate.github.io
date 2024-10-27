@@ -8,6 +8,15 @@ layout: page
 
 <h2>--- 2024 ---</h2>
 
+<h3>15° Concorso Polifonico Nazionale del Lago Maggiore</h3>
+
+<details>
+<summary>Sabato 12 e Domenica 13 Ottobre 2024</summary>
+<p>📍 <a href="https://maps.app.goo.gl/7rZTyeno5oG1n3Ho7">Collegiata San Leonardo, Verbania Pallanza (VB)</a></p>
+<p>⏰ Sabato 12 e Domenica 13 Ottobre 2024</p>
+<p><a href="https://www.associazionecoripiemontesi.com/it/cosa-facciamo/15--concorso-polifonico-del-lago-maggiore">Sito della manifestazione</a></p>
+</details>
+
 <h3>36° Rassegna Corale Albino Cattaneo</h3>
 
 <details>
