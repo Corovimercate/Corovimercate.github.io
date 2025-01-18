@@ -6,147 +6,29 @@ layout: page
 
 <h1>Archivio eventi passati</h1>
 
-<h2>--- 2024 ---</h2>
-
-<h3>15° Concorso Polifonico Nazionale del Lago Maggiore</h3>
-
-<details>
-<summary>Sabato 12 e Domenica 13 Ottobre 2024</summary>
-<p>📍 <a href="https://maps.app.goo.gl/7rZTyeno5oG1n3Ho7">Collegiata San Leonardo, Verbania Pallanza (VB)</a></p>
-<p>⏰ Sabato 12 e Domenica 13 Ottobre 2024</p>
-<p><a href="https://www.associazionecoripiemontesi.com/it/cosa-facciamo/15--concorso-polifonico-del-lago-maggiore">Sito della manifestazione</a></p>
-</details>
-
-<h3>36° Rassegna Corale Albino Cattaneo</h3>
-
-<details>
-<summary>25 maggio 2024</summary>
-<p>📍 <a href="https://maps.app.goo.gl/ARzeHbvqWkLU4etW6">Chiesa di S. Stefano Vimercate (MB)</a></p>
-<p>⏰ Sabato 25 maggio 2024 - ore 21.00</p>
-<p>Partecipano il Coro Popolare Città di Vimercate ed il coro Fior di Montagna di Monza</p>
-</details>
-
-<h3>Festival corale Savani a Carpi</h3>
-
-<details>
-<summary>4 maggio 2024</summary>
-<p>📍 <a href="https://maps.app.goo.gl/mg9UCwWiGbtM5Ty78">Auditorium San Rocco a Carpi (MO)</a></p>
-<p>⏰ Sabato 4 maggio 2024 - ore 21.00</p>
-<p><a href="https://www.concorsocoralegiuseppesavani.it/">www.concorsocoralegiuseppesavani.it</a></p>
-</details>
-
-<h3>Festa del Beato Cardinal Ferrari</h3>
-
-<details>
-<summary>4 febbraio 2024</summary>
-<p>📍 <a href="https://maps.app.goo.gl/xU732Qyq4udarwm58">Chiesa parrocchiale S. Maurizio Vimercate (MB)</a></p>
-<p>⏰ Domenica 4 febbraio 2024 - ore 15.30</p>
-
-<img class="fit-picture"
-     src="https://www.corovimercate.it/assets/img/S.Maurizio.jpg"
-     alt="Foto del coro">
-</details>
-
-<h3>Dalla Brianza alla Romagna - per celebrare le Beate Margherita e Gentile</h3>
-
-<details>
-<summary>20 e 21 gennaio 2024</summary>
-<p>📍 <a href="https://maps.app.goo.gl/PK69n5cDa9KMBAge8">Chiesa S. Apollinare di Russi (RA)</a></p>
-<p><b>Concerto in amicizia</b> ⏰ Sabato 20 gennaio 2024 - ore 20.45</p>
-<p><b>Animazione Santa Messa</b> ⏰ Domenica 21 gennaio 2024 - ore 11.00</p>
-
-<img class="fit-picture"
-     src="https://www.corovimercate.it/assets/img/Faenza_2024.jpg"
-     alt="Foto del coro">
-</details>
-
-<h3>I concerti polifonici della sagra 2024</h3>
-
-<details>
-<summary>Sabato 13 gennaio 2024</summary>
-<p>📍 <a href="https://maps.app.goo.gl/fEJVj7aisZSRtyXq7">Santuario della Beata Vergine del Rosario a Vimercate</a></p>
-<p>⏰ Sabato 13 gennaio 2024 - ore 20.45</p>
-
-<img class="fit-picture"
-     src="https://www.corovimercate.it/assets/img/Sagra_2024.jpg"
-     alt="Foto del coro">
-</details>
-
-<hr style="border:2px solid white">
-
-<h2>--- 2023 ---</h2>
-
-<h3>Due cori in concerto - Canti natalizi e non solo...</h3>
-
-<details>
-<summary>Giovedì 7 dicembre 2023</summary>
-<p>📍 <a href="https://maps.app.goo.gl/yZMctiAScH2e4J647">Chiesa di San Gerardo a Monza</a></p>
-<p>⏰ Giovedì 7 dicembre 2023 - ore 21.00</p>
-
-<img class="fit-picture"
-     src="https://www.corovimercate.it/assets/img/Volantino_Monza_7-12-23.jpg"
-     alt="Foto del coro">  
-</details>
-
-<h3>Rassegna corale - Incanto di voci 2023</h3>
-
-<details>
-<summary>Sabato 18 novembre 2023</summary>
-<p>📍 <a href="https://maps.app.goo.gl/wNMy5yqLDszWhJcS6">Chiesa di Santa Maria Assunta a Dolzago</a></p>
-<p>⏰ Sabato 18 novembre 2023 - ore 21.00</p>
-
-<p>📖 <a href="https://www.corovimercate.it/assets/img/Rassegna_2023_Nov.pdf">Scarica il programma</a></p>
-</details>
-
-<h3>Concerto d'autunno</h3>
-
-<details>
-<summary>Sabato 11 novembre 2023</summary>
-<p>📍 <a href="https://maps.app.goo.gl/sNftYajNJr6fDDU3A">Chiesa di S. Michele Arcangelo ad Oreno</a></p>
-<p>⏰ Sabato 11 novembre 2023 - ore 21.00</p>
-
-<p>📖 <a href="https://www.corovimercate.it/assets/img/Programma_Oreno.pdf">Scarica il programma</a></p>
-
-<img class="fit-picture"
-     src="https://www.corovimercate.it/assets/img/autunno2023.jpeg"
-     alt="Foto del coro"> 
-</details>
-
-<h3>1ª Edizione di TUCC INSEMA</h3>
-
-<details>
-<summary>Sabato 24 giugno 2023</summary>
-<p>📍 <a href="https://goo.gl/maps/DHzcrfC5wkym2u9Y9">Al Basell-Cooperativa Casa del Popolo di Oreno di Vimercate (MB)</a></p>
-<p>⏰ Sabato 24 giugno 2023</p>
-<p>Una giornata dedicata all’incontro delle associazioni del territorio di Vimercate e non.
-L’evento si terra’ il 24 Giugno 2023 presso Al Basell-Cooperativa Casa del Popolo di Oreno di Vimercate (MB), dalle 10 alle 20.</p>
-
-<img class="fit-picture"
-     src="https://www.corovimercate.it/assets/img/tuccinsema.jpg"
-     alt="Locandina Tucc insema"> 
-</details>
-
-<h3>Rassegna Albino Cattaneo 2023</h3>
-
-<details>
-<summary>Sabato 13 maggio 2023</summary>
-<p>📍 <a href="https://maps.app.goo.gl/XxeCNUesduaP4M9fA">Chiesa parrocchiale Burago di Molgora (MB)</a></p>
-<p>⏰ Sabato 13 maggio 2023 - ore 20.45</p>
-
-<img class="fit-picture"
-     src="https://www.corovimercate.it/assets/img/burago.jpeg"
-     alt="Locandina Burago"> 
-</details>
-
-<h3>Concerto nella chiesa di S. Giovanni Evangelista</h3>
-
-<details>
-<summary>Domenica 2 aprile 2023</summary>
-<p>📍 <a href="https://goo.gl/maps/UuGhB9Chu3fhTbMY6">Bulciago (LC)</a></p>
-<p>⏰ Domenica 2 aprile 2023 - ore 20.45</p>
-
-<img class="fit-picture"
-     src="https://www.corovimercate.it/cpcv-2023/assets/img/bulciago.jpg"
-     alt="Locandina Bulciago LC">
-</details>
-
+- [2024](./2024)
+- [2023](./2023)
+- [2022](./2022)
+- [2021](./2021)
+- [2020](./2020)
+- [2019](./2019)
+- [2018](./2018)
+- [2017](./2017)
+- [2016](./2016)
+- [2015](./2015)
+- [2014](./2014)
+- [2013](./2013)
+- [2012](./2012)
+- [2011](./2011)
+- [2010](./2010)
+- [2009](./2009)
+- [2008](./2008)
+- [2007](./2007)
+- [2006](./2006)
+- [2005](./2005)
+- [2004](./2004)
+- [2003](./2003)
+- [2002](./2002)
+- [2001](./2001)
+- [2000](./2000)
+- [pre 2000](./pre2000)
